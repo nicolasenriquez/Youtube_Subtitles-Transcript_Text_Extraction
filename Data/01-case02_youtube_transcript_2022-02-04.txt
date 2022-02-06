@@ -1,0 +1,1240 @@
+00:00
+did you ever wonder how a real
+00:01
+consultant would do in a real case
+00:03
+interview that's what you're gonna see
+00:04
+today I'm Giulio a next bein consultant
+00:07
+and today in this video I'm gonna
+00:09
+interview Bruno an expert Kinsey
+00:11
+consultant I'm gonna use a case that is
+00:15
+very similar to what I got in the last
+00:17
+interview with my final round at Bain
+00:19
+and at first glance is just a simple
+00:22
+profitability case where the interviewer
+00:24
+just wants to see if you can build and
+00:26
+analytically work with a profit tree but
+00:29
+in reality it's not
+00:30
+I've used this case for coaching
+00:32
+hundreds of times and I'm confident to
+00:34
+say only probably three out of ten
+00:36
+candidates can actually do an offer
+00:39
+deserving performance at their first try
+00:41
+but enough chitchat already let's get to
+00:44
+the case and see how Bruna deals with it
+00:46
+so your client is a auto
+00:49
+biomanufacturing the United States ok
+00:52
+and they are faced with in the last five
+00:54
+years a profitability decrease their
+00:57
+profitability has decreased from five to
+00:59
+2.5%
+01:00
+well the competitors average rules from
+01:04
+three point five percent to more than
+01:06
+that nowadays yeah so we're at two point
+01:08
+five and competitors are above three
+01:11
+point five okay you've been hired to
+01:14
+help them restore their profitability
+01:15
+over the next two years or so okay how
+01:18
+would you help them do that
+01:20
+okay great question so couple clarifying
+01:24
+questions first did our competitors
+01:27
+profitability as decreased as well our
+01:30
+competitors profitability has increased
+01:32
+has increased to three point five from
+01:35
+three point five to something that we
+01:37
+don't know okay so they used to be a
+01:39
+three point five lower than us because
+01:41
+we were at five yeah and they have
+01:44
+increased their profitability while we
+01:46
+have decreased that's right okay that's
+01:48
+interesting it doesn't seem like it's an
+01:50
+industry-wide problem right another
+01:54
+question are we a regular auto
+01:56
+manufacturer is this global a real
+01:59
+luxury cars or just mass market we have
+02:02
+all kinds of cars okay the brands within
+02:04
+our manufacturer we do sell only in the
+02:08
+United States
+02:09
+okay so we're just in the united that
+02:14
+sounds good so the first step that i
+02:18
+would do to solve this problem is to
+02:20
+find out if this is a revenue problem or
+02:23
+a cost problem and if we have data on
+02:27
+that we'd like to get that now just so I
+02:29
+can focus on the right branch or I can
+02:31
+develop my issue tree matter whichever
+02:33
+you prefer okay we do have data on that
+02:35
+so our revenues have increased from 21
+02:40
+billion to twenty two point five billion
+02:42
+dollars twenty to twenty five okay
+02:44
+while our costs have increased from
+02:46
+twenty billion dollars to twenty two
+02:48
+billion dollars okay so it does seem
+02:53
+like a cost problem just to confirm that
+02:56
+it is a cost problem how's our pricing
+02:59
+our average price per car doing and I'm
+03:03
+asking this because it could be that our
+03:06
+revenues have increased because we have
+03:08
+dropped prices increased volume sold and
+03:11
+this raising cost is just to reflect the
+03:15
+increase in cost to make more cars okay
+03:17
+that makes sense our price has stayed
+03:20
+the same from $30,000 to $30,000 per
+03:23
+average when I mix of products changed
+03:27
+because maybe the average is the same
+03:29
+but we're selling more sports cars for a
+03:33
+lower price and yeah this question so
+03:35
+not really no okay the mix hasn't
+03:38
+changed okay so we don't have a pricing
+03:41
+problem which means that we don't have a
+03:43
+revenue problem that's right so we need
+03:45
+to explore costs better and what I do
+03:48
+now is to understand the cost structure
+03:52
+of this company
+03:53
+and get a cost breakdown to see which
+03:55
+cost has increased okay and I see here
+04:02
+there are direct costs and there are
+04:05
+indirect costs I believe this is how
+04:09
+most manufacturers would categorize
+04:11
+those costs we think the direct cost are
+04:15
+fixed and variable costs
+04:20
+I believe all indirect costs are
+04:22
+fixed and yeah I'd like to know the cost
+04:26
+breakdown so within variable that would
+04:28
+there would be parts there would be
+04:32
+energy there'd be label for
+04:36
+manufacturing and perhaps yeah sales
+04:40
+would be indirect and then within fixed
+04:43
+costs there is the factory right is
+04:48
+there a new direct cluster and me see
+04:50
+okay well that's pretty close but we do
+04:53
+have a cost breakdown that our client
+04:55
+use okay so you can use the face yeah
+04:57
+that's okay we can go with materials
+05:00
+costs okay
+05:01
+so labor costs factory related costs
+05:07
+okay and other costs for the indirect
+05:10
+costs okay great so no energy yeah okay
+05:14
+sounds good and what what happened to
+05:16
+this costs okay
+05:17
+so material costs have gone from 50% of
+05:23
+total costs to 52% of total costs okay
+05:29
+labor costs has stayed stable state has
+05:32
+stay stable and twenty percent twenty
+05:35
+before and 20 percent afterwards right
+05:38
+and of course the total has increased
+05:40
+because total plus CSS right and both
+05:43
+factory costs and indirect costs have
+05:46
+decreased from 15 each to 14 each ok so
+05:50
+it went from 15% of 4% okay that sounds
+05:59
+good so just to get a it seems like the
+06:03
+problems on materials okay I just want
+06:06
+to tie back to the two billion plus
+06:08
+increase just to see how much of that
+06:11
+was caused by material so before I had
+06:14
+fifty percent of twenty billion so we
+06:17
+had ten billion dollars yeah and now we
+06:21
+have 52 percent of twenty two didn't so
+06:25
+if this were fifty percent of twenty two
+06:28
+would be eleven billion dollars yeah now
+06:32
+I have two percent of twenty
+06:36
+- which is 0.4 t four billion right so
+06:43
+1% would have been points 22 billion so
+06:46
+yes point forty four so now material
+06:49
+costs is at 11.40 four billion right so
+06:57
+we have increased two billion total
+07:01
+costs and we have increased one point
+07:09
+forty four billion so that's a 75%
+07:13
+mature costs represent roughly 75% of
+07:17
+the total cost increase okay so I'm
+07:21
+gonna focus on materials because it
+07:24
+represents most of the costs increase
+07:26
+because it's the line that has gained
+07:28
+the cost line that has gained most share
+07:32
+and then if you can't solve the cost
+07:35
+problem in the profitability problem
+07:38
+through material costs we're gonna come
+07:40
+back and work on labor indirect and
+07:43
+fixed alright to make sense okay what do
+07:47
+you want to do so I wanna investigate
+07:49
+why material costs have increased and
+07:54
+what do you think that's a good question
+07:56
+so let's think of the possibilities here
+08:00
+why has material costs increased one
+08:10
+clarifying question that I'd like to ask
+08:12
+is do we know if our competitors
+08:15
+material costs have increased as well we
+08:18
+don't really know that no okay because
+08:20
+that would be really informative
+08:24
+information to have because they
+08:26
+probably buy the same parts from the
+08:29
+same supplier so what I would do here is
+08:31
+break down materials into the different
+08:34
+types of materials so we have steel we
+08:39
+have outer parts we have tires glasses
+08:47
+like electrics
+08:50
+all this stuff we buy and I would try to
+08:53
+understand which one has increased and
+08:57
+then I'd ask why again so say if steel
+09:00
+are we purchasing different types of C
+09:03
+or from different suppliers or what's
+09:06
+going on but the first step would be to
+09:08
+understand which category of purchased
+09:11
+parts is increased
+09:12
+okay alright we do have data on that
+09:14
+actually so our materials are broken
+09:18
+down into auto parts steel plastics and
+09:22
+others okay so you were your vehicles
+09:26
+yeah and as a percentage of materials
+09:31
+Auto Parts has increased from 60% to 65%
+09:35
+as a percentage of materials yeah so
+09:38
+we're talking about a eleven point forty
+09:41
+four billion yeah okay auto parts went
+09:44
+from 60 to 65% that's right okay steel
+09:49
+and plastics both decrease from 15 to 13
+09:53
+percent okay and other costs has
+09:58
+decreased from 10 percent to 9 percent
+10:01
+okay that's interesting so it seems like
+10:04
+it all comes from auto parts we can't
+10:07
+know for sure unless we do the math so
+10:10
+I'm gonna do the math really quickly we
+10:12
+had sixty percent of 10 billion we used
+10:15
+to purchase six billion in auto parts
+10:18
+and now we're purchasing 65% of 11.40
+10:23
+for doing okay tough math to do here so
+10:31
+let me divide this into fifty percent
+10:34
+plus ten percent plus five percent 50
+10:38
+percent of 11.40 for is well 50 percent
+10:43
+of point four four is points 22 and
+10:46
+fifty percent of 11 is five point five
+10:50
+so five point five plus points 22 is
+10:56
+5.72 that's 50% of the total bill that's
+11:00
+right then 10 percent is
+11:03
+point 14 or 144 I'm just gonna let's do
+11:08
+the exact math here okay and then five
+11:11
+percent is ten percent of the fifty
+11:15
+percent so it's zero point five seven
+11:19
+two so so me all up we have six 2 plus 4
+11:26
+is 6 plus 7 is 13 7.36 wait wait wait
+11:40
+wait pause did you see that 65 percent
+11:43
+of eleven point forty four billion is
+11:46
+seven point four thirty six not seven
+11:48
+point 36
+11:49
+brooder been a mistake there and i
+11:51
+didn't notice the vendors are so close
+11:53
+that I didn't catch my attention they
+11:55
+both rounded 27.4 and I actually only
+11:57
+noticed this when I was editing this
+11:59
+video in a real case interview it's
+12:02
+actually possible that the interviewer
+12:03
+doesn't notice a mistake but it's not
+12:05
+likely and what would have happened if I
+12:07
+had noticed it I'd have asked him are
+12:10
+you sure and that he would have one
+12:12
+chance of finding a fixing him to his
+12:14
+mistake if he did he'd be fine no big
+12:17
+deal if he didn't that he'd be trouble
+12:20
+is that right yeah that's right okay so
+12:24
+we went from six billion to seven points
+12:27
+36 which is an increase of one point 36
+12:38
+one point 36 billion so not all costs
+12:42
+from materials increased come from auto
+12:45
+parts but the vast majority of it we'll
+12:48
+compare one point 36 billion to one
+12:50
+point forty four billion total material
+12:53
+increase so let's focus on auto parts we
+12:56
+need to understand why outer part costs
+12:58
+that's gonna do we have any information
+13:00
+on what happens to our suppliers the
+13:03
+types of parts we buy or something in
+13:07
+supply chain not at all what do you
+13:10
+think
+13:10
+okay so let's raise some hypothesis on
+13:14
+what could have happened
+13:15
+you either will buy more parts and some
+13:22
+extent would have to buy more parts per
+13:24
+car because the materials cost has
+13:30
+raised more than the total revenue right
+13:35
+so that's why we're having profitability
+13:37
+problem or we'll pay more per part on
+13:42
+average do we know which one of those
+13:44
+who is the most responsible we don't
+13:46
+know what I'd like to see how about this
+13:47
+is both okay so cool so if we're
+13:50
+purchasing more parts per car maybe our
+13:53
+mix of parts has changed or we have new
+14:00
+products which is another source of mix
+14:05
+changing but then it's we caused it
+14:08
+instead of the orchids or the waste is
+14:14
+hired in our manufacturing chain right
+14:17
+now if the dollar per part has increased
+14:20
+so if we're paying more per part that's
+14:24
+either because we have switched to more
+14:30
+expensive suppliers or that happened at
+14:35
+same suppliers and if it did happens in
+14:41
+the same suppliers then either they're
+14:45
+making more money so their margins up or
+14:48
+their costs are up and they're sending
+14:52
+their costs to us okay why would I be
+14:56
+making more money perhaps because I'll
+14:59
+give you some ideas within here maybe
+15:01
+they have bought one another and now
+15:06
+they're more concentrated and we can
+15:09
+really bargain with them or they have
+15:11
+created switching costs so we can't
+15:14
+change suppliers maybe the tooling of
+15:16
+the equipment or they have patents of
+15:20
+certain parts designs it could also be
+15:24
+that we are getting really poor in
+15:27
+negotiation
+15:28
+so maybe we've changed our purchasing
+15:34
+force or our CP oh and our guys are not
+15:38
+doing a really good job negotiating
+15:40
+these spots okay all right I can believe
+15:43
+that
+15:43
+okay now as it turns out the problem is
+15:48
+that workers of auto parts manufacturers
+15:51
+in the USA have become recently
+15:54
+unionized okay and this has caused a
+15:56
+large increase in labor costs with
+15:59
+salaries and benefits increase for our
+16:01
+suppliers for all USA manufactures our
+16:04
+suppliers okay no just our suppliers but
+16:08
+all suppliers of auto parts in the USA
+16:10
+okay so this happened to our competitors
+16:12
+as well it did but other players in the
+16:14
+market have all forced the production of
+16:17
+their auto parts to other countries okay
+16:20
+and we're currently considering
+16:21
+outsourcing the production of our auto
+16:24
+parts to China okay what factors would
+16:27
+you take into consideration to decide
+16:29
+whether or not this is a good idea
+16:31
+okay so just see if I understand our
+16:34
+materials bill has increased because our
+16:37
+suppliers have higher costs this
+16:39
+happened with all suppliers in the chain
+16:42
+in the u.s. yeah and we're going to
+16:45
+consider it who should buy these parts
+16:47
+in China are we considering buying all
+16:50
+the parts or just some of them as many
+16:53
+as needed to bring our profitability
+16:55
+back to find myself okay and you need to
+16:59
+make sure that it's you want to know how
+17:03
+would I decide how would I have declined
+17:07
+the size if we should purchase these
+17:08
+parts in China all right okay sounds
+17:11
+good can can I take a minute to think
+17:13
+yeah take your time
+17:34
+okay so I would 2:05 different factors
+17:40
+to see if we should outsource or
+17:44
+actually import parts from China instead
+17:47
+of buying them from American suppliers
+17:51
+the first one is if it's actually going
+17:53
+to be cheaper if it's not going to be
+17:55
+cheaper in China for some reason I don't
+17:57
+want to do that yeah the second one is
+18:00
+if it meets the quality standards that
+18:03
+we expect okay because otherwise we're
+18:09
+gonna lose the quality of our product
+18:10
+and this is probably not acceptable
+18:12
+yeah the third thing is can we have a
+18:14
+predictable supply chain if we bring
+18:18
+parts from China all right it doesn't
+18:21
+make sense to get cheaper products but
+18:25
+then have manufacturing more expensive
+18:27
+or having the factory stop working and
+18:31
+so on yeah the fourth factor I'd look at
+18:34
+are other risks that are not considered
+18:36
+in the previous three buckets and
+18:38
+finally if there aren't better
+18:40
+alternatives because maybe all of this
+18:42
+box is checked for China but then there
+18:45
+are better alternatives so let me
+18:47
+explore in a bit more detail regarding
+18:49
+Cheaper are the parts going to be
+18:52
+cheaper the way I'd answer this question
+18:54
+would be to answer three questions the
+18:55
+first is figure out the cost of the
+18:58
+parts there okay in China the second
+19:02
+step would be to consider what are the
+19:05
+fixed costs in developing new suppliers
+19:07
+so it will cost something to have them
+19:11
+make the parts and learn to make our
+19:13
+parts at our quality standards and the
+19:18
+third thing is what is the cost to bring
+19:20
+parts from China to the US and then
+19:23
+there's all the shipping parts the
+19:26
+tariffs the exchange rates and
+19:29
+okay okay also there's a fourth factor
+19:33
+which we didn't put here but we will
+19:36
+probably need some operation there some
+19:38
+people checking suppliers and visiting
+19:40
+them as well okay
+19:41
+regarding quality I would try to
+19:45
+understand what is the manufacturing
+19:47
+expertise of these suppliers what are
+19:50
+the quality controls that they do it can
+19:52
+be trust them and then also I'd like to
+19:54
+see prototypes of our parts just to see
+19:58
+if this actually happens in real life or
+20:01
+if it's all theoretical on paper they're
+20:03
+really good but you know yeah okay
+20:06
+regarding the predictable supply chain
+20:08
+to look at three factors it as well the
+20:11
+first is the import issue how is the
+20:16
+process to import parts from China how
+20:20
+predictable is it how much leads time do
+20:23
+you need to order these parts and can we
+20:26
+work with these types of lead times okay
+20:29
+so assuming the supply chain is
+20:31
+predictable what are the steps and the
+20:36
+times of the process the second factor
+20:39
+is geopolitics are there geopolitical
+20:44
+risks that can make us you know not
+20:49
+receive parts for a whole month and then
+20:53
+what should we do about it okay yeah the
+20:55
+dividuals closed down the business and
+20:58
+the third thing is something that would
+21:01
+decrease the risk in supply chain which
+21:03
+is inventory how much should we raise
+21:06
+inventory how much can we raise
+21:10
+inventory to mitigate these risks and
+21:13
+this uncertainties and if so how much is
+21:16
+it gonna cost and again this brings us
+21:19
+back to the cheaper points up there okay
+21:22
+okay now some other risks to consider
+21:26
+one of them is intellectual property
+21:29
+can we trust our blueprints to these
+21:31
+Chinese suppliers I know some of them
+21:35
+have had trouble and other industries in
+21:38
+the past are we willing to risk our
+21:41
+designs with them and
+21:43
+if so which designs okay and this enters
+21:46
+a broader picture which is probably the
+21:48
+next step of this analysis if we choose
+21:51
+to send our parts of China which parts
+21:53
+probably not all of them you have to
+21:57
+make sense but that's our next step the
+22:00
+second risk that I would emphasize here
+22:02
+is the media or the public perception
+22:05
+we're going to be responsible for you
+22:08
+know taking drops out of America having
+22:12
+some suppliers bankrupt we use Chinese
+22:15
+parts in our cars is it possible that we
+22:19
+will lose market share doing this I know
+22:22
+our competitors are doing but maybe
+22:25
+we're gaining some some sales because
+22:29
+we're you guys who you know trust
+22:35
+American suppliers and give Americans
+22:37
+jobs and so on we need to try to size
+22:40
+the impact of that and the third class
+22:44
+of risks that I'd look at here is the
+22:46
+operational risk so and this includes
+22:52
+supply chain demand all the other things
+22:55
+but is it possible that we cannot get
+22:59
+parts in a certain situation because of
+23:02
+language barriers is it possible that a
+23:05
+certain event causes the port's not to
+23:09
+work well so all the predictable things
+23:12
+that we we had looked at in the quality
+23:15
+in these five key factors
+23:17
+what if they become unpredictable these
+23:19
+are risks okay okay and finally I'd look
+23:23
+at alternatives so we can develop
+23:26
+American suppliers to make them cheaper
+23:28
+again maybe renegotiate with the Union
+23:30
+because if they have if they have cost
+23:37
+our our parts to be too expensive to the
+23:44
+US it doesn't really matter that they
+23:47
+have higher sellers if through then they
+23:48
+get fired and yeah or make them cheaper
+23:51
+in other ways maybe integrate the supply
+23:54
+chain better teach them
+23:55
+how to be more efficient as well another
+23:58
+alternative is other countries their
+24:00
+Southeast Asia there's Mexico there's a
+24:03
+ton of other countries that could be
+24:07
+viable and perhaps even cheaper than
+24:09
+China or with less risks and then the
+24:12
+other one is are there certain parts
+24:14
+that we can internalize and manufacture
+24:17
+them within our company so this could
+24:20
+make them cheaper more predictable and
+24:23
+they try to evaluate these alternatives
+24:26
+just to see if there's any one of them
+24:27
+that's better than China okay all right
+24:31
+that's it that was pretty good okay I'm
+24:34
+not gonna asking for a recommendation
+24:35
+here because I didn't give you any any
+24:37
+datum of any kind yes so you can't
+24:39
+really say anything but they feel really
+24:42
+liked your analysis I guess that I think
+24:45
+you did too preservation he might come
+24:46
+back to with some to him with some data
+24:48
+in the future wait for it okay sounds
+24:51
+good do you think it did a good job in
+24:52
+this case yeah he did what do you think
+24:55
+it did best
+24:55
+what do you think I could have done
+24:57
+better okay so definitely the best point
+25:02
+in your analysis were that you in the
+25:05
+second question you raised some really
+25:08
+good points and what you would consider
+25:10
+the second question was why materials
+25:13
+increased yeah I'm gonna go the third
+25:15
+question then why what we should
+25:18
+consider when outsourcing your bike to
+25:20
+China when deciding whether we should or
+25:22
+not although some really good ideas here
+25:24
+were developing new suppliers would be
+25:31
+would have fixed costs in China and
+25:33
+that's something that very few people
+25:34
+would think of another month was
+25:38
+predictability of the supply chain
+25:41
+yeah and even so that was a good idea in
+25:44
+itself and having that impact
+25:47
+inventories was something that hardly
+25:50
+anyone would think of okay don't worry
+25:51
+those are real good points and one thing
+25:54
+that I wished you did and it helps that
+25:56
+I do the project out of manufacturing
+25:58
+probably yeah guys don't expect everyone
+26:02
+to think of all these issues yeah but at
+26:05
+the same time you can always learn from
+26:07
+this and it won't work all
+26:09
+for our Pro stability cases regarding
+26:13
+automobile companies Bennett you can
+26:16
+always know from now on that
+26:18
+predictability in the supply chain
+26:20
+allows you to have lower inventories and
+26:22
+unpredictable and unpredictable supplied
+26:25
+supply chain will not have you have
+26:29
+higher venturi yeah that's something you
+26:31
+can know for all cases and it works for
+26:33
+all other issues yeah any manufacturer
+26:37
+even McDonald's right yeah the App
+26:39
+Inventor ease of burgers and Brad's and
+26:44
+so on yeah and still like for all other
+26:47
+issues so we're talking let's see you
+26:52
+have financial costs because you're out
+26:55
+for a C to another country your problem
+26:57
+that probably means that you either have
+27:01
+risks that currency risk so your
+27:04
+currencies gotta go up or down and that
+27:06
+might change your costs or you're gonna
+27:07
+have hedging costs to prevent that right
+27:09
+anyway you're gonna have that in any
+27:12
+case where you're doing something in one
+27:15
+country and another yeah regardless of
+27:17
+whether you're outsourcing your
+27:18
+production or you're starting to arrange
+27:21
+my name when when its re-entry yeah
+27:23
+that's right
+27:23
+and one thing I wish to different was in
+27:27
+the beginning of the case I asked you to
+27:30
+help me solve the client's problem and
+27:33
+you went straight into and usually
+27:36
+what's happening yeah you know I wish to
+27:38
+unset oh so I messed up yeah yeah well
+27:41
+that's okay like that's what most people
+27:42
+do and it's not the end of the world but
+27:44
+I would have been much happier to have
+27:47
+you do it differently and say well so
+27:49
+the first thing I want to do is figure
+27:50
+out what their problem is but then
+27:52
+afterwards I want to come up with
+27:53
+options of course it depends on what the
+27:57
+problem is
+27:57
+but of course if I can't solve this
+27:59
+specific problem I'm going to come up
+28:01
+with solutions and all other ends of my
+28:03
+profitability tree yeah something like
+28:04
+that yeah so I'm gonna do it right now
+28:06
+so you're gonna help increasing
+28:08
+improving the profitability
+28:10
+step number one is to find the root
+28:14
+cause of what's causing this
+28:17
+profitability decrease so if it's a cost
+28:21
+problem which cost is right
+28:23
+probably it's a revenue problem is it
+28:26
+price or volume and in which product
+28:28
+line or rich region is causing the
+28:30
+problem yeah
+28:31
+step two is to find solutions to that
+28:37
+root cause and if we can't find any
+28:40
+solutions to that root cause what other
+28:43
+drivers can we work on to improve the
+28:46
+profitability problem and then in step
+28:48
+three would be to try to quantify each
+28:57
+solution and see how much it will help
+29:01
+solve the profit problem and also think
+29:04
+from a more qualitative strategic level
+29:07
+if the solution makes sense around
+29:08
+because maybe it has a really high
+29:11
+profit potential but it's not gonna work
+29:13
+in real life well that's that's how I
+29:16
+should have done the first question of
+29:18
+this case and then we went on to the
+29:20
+issue in our channel there is a video
+29:22
+we're gonna talk specifically about this
+29:24
+issue he'll talk about what should have
+29:27
+been done how to do it differently and
+29:28
+why it's better it's called the five
+29:30
+tactics to stand out in profitability
+29:32
+case interviews and it should be right
+29:35
+here on the right hand top corner of
+29:37
+your video if you're like most
+29:39
+candidates out there
+29:40
+you found the Diagnostics part of this
+29:42
+case not so hard but the last question
+29:45
+the hardest one we know that and we
+29:47
+found that way too and we were preparing
+29:48
+that's why we built a free course on the
+29:51
+case interview fundamentals where we
+29:53
+teach you how to answer any type of
+29:54
+question an interviewer can ask you
+29:56
+regardless of case type of Industry
+29:58
+anything and we want you to do that
+30:00
+without memorizing frameworks we want
+30:03
+you to learn to think like a consultant
+30:05
+because that's what really impresses
+30:06
+interviewers and brings home offers
+30:08
+chasing different fundamentals has been
+30:10
+helping hundreds of candidates get there
+30:12
+and VB offers so I don't want you to be
+30:14
+the one to miss out on that if you're
+30:16
+interested just go to Crafton KSS comm
+30:18
+slash free course and sign up right now
+30:21
+if you want to watch other videos about
+30:24
+case interview case interview examples
+30:26
+how to stand out how to think like a
+30:28
+consultant to subscribe to our channel
+30:30
+hit the bell button to get notified when
+30:32
+we release new ones and finally if you
+30:35
+like this video you're
+30:37
+they also gonna like the other one
+30:38
+that's on your screen where I interview
+30:40
+Bruno with a McKinsey style case a
+30:44
+tougher one harder than this one that
+30:47
+you could probably find in a first or
+30:49
+final round in McKinsey Boehner BCG okay
+30:53
+I hope you liked this one and I'll see
+30:55
+you in the next video
